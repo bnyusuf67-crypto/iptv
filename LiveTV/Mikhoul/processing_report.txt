@@ -1,47 +1,47 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-09-02 14:34:56
+Generated: 2026-09-02 18:16:41
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 3062
-Total Channels Found: 1217
+Total Lines Processed: 3423
+Total Channels Found: 1397
 Parsing Errors: 0
-Urls Validated: 1119
-Active Urls: 960
-Geo Blocked Urls: 154
-Validation Time: 172.81697511672974
-Inactive By Error: {'http_404': 63, 'inactive': 48, 'invalid_content': 23, 'http_502': 1, 'http_503': 8, 'http_400': 6, 'http_504': 6, 'http_500': 1, 'http_401': 3}
-Total Processing Time: 222.2063615322113
-Final Channel Count: 960
+Urls Validated: 1148
+Active Urls: 941
+Geo Blocked Urls: 155
+Validation Time: 194.14239931106567
+Inactive By Error: {'http_404': 102, 'inactive': 50, 'http_502': 1, 'invalid_content': 23, 'http_401': 9, 'http_503': 8, 'http_400': 7, 'http_504': 6, 'http_500': 1}
+Total Processing Time: 205.38442182540894
+Final Channel Count: 941
 Source Urls Processed: 10
 Total Skipped Urls: 112
 
 CHANNEL DISTRIBUTION
 --------------------
-Uncategorized: 117 channels
+Uncategorized: 112 channels
 Music: 56 channels
 Cinéma: 49 channels
 Genel: 49 channels
-Sports: 44 channels
-General: 39 channels
+Sports: 42 channels
+General: 38 channels
 Généraliste: 33 channels
 Divertissement: 27 channels
-News: 23 channels
 Series: 21 channels
-Kids: 21 channels
+News: 21 channels
 Actualités: 20 channels
 Haber: 20 channels
-Séries TV: 19 channels
+Kids: 19 channels
 Sport Multiplex: 18 channels
+Séries TV: 18 channels
 Musique: 15 channels
 Muzik: 15 channels
 TNT: 14 channels
 Eglence: 14 channels
-Documentaires: 12 channels
-Animation: 12 channels
-100% Français: 12 channels
+Documentaires: 11 channels
+Animation: 11 channels
+100% Français: 11 channels
 Kids & Family: 11 channels
 Yurt Disi: 11 channels
 FRANCE: 11 channels
@@ -54,29 +54,30 @@ Classic TV: 9 channels
 Ulusal: 9 channels
 Crime: 8 channels
 Movies: 8 channels
-Lifestyle: 8 channels
-Séries Policières: 8 channels
 Film: 7 channels
+Lifestyle: 7 channels
 Animation;Comedy: 7 channels
+Séries Policières: 7 channels
 Crime & Mystère: 7 channels
 Nature & Travel: 7 channels
-Voyages et Gastronomie: 6 channels
 Comedy: 6 channels
 Classic: 6 channels
 Daytime TV: 6 channels
 Spor: 6 channels
 Informations Françaises: 5 channels
+Voyages et Gastronomie: 5 channels
 Documentary: 5 channels
 Movies;Series: 5 channels
 TV Réalité: 5 channels
 Documentaire: 5 channels
 Cocuk: 5 channels
-Sport Thématique: 4 channels
 Style de vie/Pratique: 4 channels
 Anime: 4 channels
 Outdoor: 4 channels
 Kultur: 4 channels
 Communautaire: 3 channels
+Quebec TV: 3 channels
+Sport Thématique: 3 channels
 Locale: 3 channels
 Télé réalité: 3 channels
 Sports & Auto: 3 channels
@@ -88,27 +89,25 @@ Découverte: 2 channels
 Classic;Comedy: 2 channels
 Emissions cultes: 2 channels
 Nouveau sur Pluto TV: 2 channels
-True Crime: 2 channels
 Anime & Gaming, Kids & Family: 2 channels
-Hit TV, True Crime: 2 channels
+True Crime: 2 channels
 Drama TV: 2 channels
+Hit TV, True Crime: 2 channels
 Belgesel: 2 channels
 Ulusal - Yurt Disi: 2 channels
 Educatif: 1 channels
 Réréalité: 1 channels
 Comedie: 1 channels
-Affaires Publiques: 1 channels
 Thématique: 1 channels
 Cuisine: 1 channels
-Quebec TV: 1 channels
 Etrangère: 1 channels
 Education;Kids: 1 channels
 Legislative: 1 channels
 Animation;Kids: 1 channels
 Auto: 1 channels
 Outdoor;Sports: 1 channels
-Classic;Movies: 1 channels
 Comedy;Movies: 1 channels
+Classic;Movies: 1 channels
 Documentary;Series: 1 channels
 Relax: 1 channels
 Comedy;Series: 1 channels
@@ -122,21 +121,16 @@ Egitim: 1 channels
 Yasam Tarzi: 1 channels
 Cocuk - Yurt Disi: 1 channels
 
-FAILED URLS
------------
-URL: https://tinyurl.com/Stream2IPTV?region=fr&service=SamsungTVPlus
-Error: HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=12)
-
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
-HTTP 400 Errors: 6 channels
-HTTP 401 Errors: 3 channels
-HTTP 404 Errors: 63 channels
+HTTP 400 Errors: 7 channels
+HTTP 401 Errors: 9 channels
+HTTP 404 Errors: 102 channels
 HTTP 500 Errors: 1 channels
 HTTP 502 Errors: 1 channels
 HTTP 503 Errors: 8 channels
 HTTP 504 Errors: 6 channels
-Inactive: 48 channels
+Inactive: 50 channels
 Invalid Content: 23 channels
 
 SKIPPED URLS (Invalid, Non-HTTP, or Duplicate)
