@@ -1816,8 +1816,8 @@ def main():
         "https://rawcdn.githack.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_fr.m3u",
         "https://tinyurl.com/Stream2IPTV?region=fr&service=SamsungTVPlus",
         "https://tinyurl.com/Stream2IPTV?region=fr&service=Plex",
-        "https://tinyurl.com/ByteFixRepairs2026"
-        "https://www.showturk.com.tr/canli-yayin"
+        "https://tinyurl.com/ByteFixRepairs2026",
+        "https://www.showturk.com.tr/canli-yayin",
         "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u",
         "https://list.iptvcat.com/my_list/33b417553a834a782ea5d4d15abbef92.m3u8",
     ]
