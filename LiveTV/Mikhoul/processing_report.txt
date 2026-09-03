@@ -1,26 +1,26 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-09-03 02:03:01
+Generated: 2026-09-03 07:02:00
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 3353
-Total Channels Found: 1366
+Total Lines Processed: 3359
+Total Channels Found: 1369
 Parsing Errors: 0
-Urls Validated: 1117
-Active Urls: 917
-Geo Blocked Urls: 126
-Validation Time: 172.08293509483337
-Inactive By Error: {'http_404': 104, 'inactive': 48, 'invalid_content': 23, 'http_502': 1, 'http_503': 8, 'http_400': 6, 'http_504': 5, 'http_500': 1, 'http_401': 4}
-Total Processing Time: 182.15855526924133
-Final Channel Count: 917
+Urls Validated: 1119
+Active Urls: 921
+Geo Blocked Urls: 128
+Validation Time: 173.1538951396942
+Inactive By Error: {'http_404': 103, 'inactive': 48, 'invalid_content': 23, 'http_502': 1, 'http_503': 8, 'http_400': 6, 'http_504': 5, 'http_500': 1, 'http_401': 3}
+Total Processing Time: 183.80377411842346
+Final Channel Count: 921
 Source Urls Processed: 10
 Total Skipped Urls: 108
 
 CHANNEL DISTRIBUTION
 --------------------
-Uncategorized: 112 channels
+Uncategorized: 114 channels
 Music: 56 channels
 Cinéma: 49 channels
 Genel: 49 channels
@@ -28,9 +28,9 @@ Sports: 44 channels
 Généraliste: 33 channels
 Divertissement: 27 channels
 Series: 21 channels
+News: 21 channels
 Actualités: 20 channels
 Kids: 20 channels
-News: 20 channels
 Haber: 20 channels
 Séries TV: 19 channels
 Sport Multiplex: 18 channels
@@ -39,6 +39,7 @@ Muzik: 15 channels
 TNT: 14 channels
 Eglence: 14 channels
 Documentaires: 12 channels
+General: 11 channels
 Animation: 11 channels
 100% Français: 11 channels
 Kids & Family: 11 channels
@@ -46,7 +47,6 @@ Yurt Disi: 11 channels
 FRANCE: 11 channels
 Jeunesse: 10 channels
 Régionale: 10 channels
-General: 10 channels
 Dini: 10 channels
 Séries et Divertissements: 9 channels
 À Binge-Watch: 9 channels
@@ -103,21 +103,21 @@ Thématique: 1 channels
 Quebec TV: 1 channels
 Etrangère: 1 channels
 Education;Kids: 1 channels
-Legislative: 1 channels
 Animation;Kids: 1 channels
+Legislative: 1 channels
 Auto: 1 channels
 Comedy;Movies: 1 channels
 Classic;Movies: 1 channels
 Outdoor;Sports: 1 channels
-Documentary;Series: 1 channels
 Relax: 1 channels
 Comedy;Series: 1 channels
-Shop: 1 channels
 Weather: 1 channels
+Shop: 1 channels
+Documentary;Series: 1 channels
 Hit TV: 1 channels
 Hit TV, Game Shows: 1 channels
-International: 1 channels
 Drama TV, Movies: 1 channels
+International: 1 channels
 Egitim: 1 channels
 Yasam Tarzi: 1 channels
 Cocuk - Yurt Disi: 1 channels
@@ -125,8 +125,8 @@ Cocuk - Yurt Disi: 1 channels
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
 HTTP 400 Errors: 6 channels
-HTTP 401 Errors: 4 channels
-HTTP 404 Errors: 104 channels
+HTTP 401 Errors: 3 channels
+HTTP 404 Errors: 103 channels
 HTTP 500 Errors: 1 channels
 HTTP 502 Errors: 1 channels
 HTTP 503 Errors: 8 channels
