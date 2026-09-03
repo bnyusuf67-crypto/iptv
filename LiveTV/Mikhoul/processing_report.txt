@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-09-03 15:44:40
+Generated: 2026-09-03 19:01:27
 ============================================================
 
 PROCESSING STATISTICS
@@ -9,12 +9,12 @@ Total Lines Processed: 3361
 Total Channels Found: 1370
 Parsing Errors: 0
 Urls Validated: 1120
-Active Urls: 918
-Geo Blocked Urls: 126
-Validation Time: 185.4440553188324
-Inactive By Error: {'http_404': 106, 'inactive': 48, 'invalid_content': 23, 'http_502': 1, 'http_503': 8, 'http_400': 6, 'http_504': 5, 'http_500': 1, 'http_401': 4}
-Total Processing Time: 207.51922869682312
-Final Channel Count: 918
+Active Urls: 919
+Geo Blocked Urls: 127
+Validation Time: 183.22181630134583
+Inactive By Error: {'http_404': 105, 'inactive': 48, 'http_502': 1, 'invalid_content': 23, 'http_503': 8, 'http_400': 6, 'http_504': 5, 'http_500': 1, 'http_401': 4}
+Total Processing Time: 191.52983045578003
+Final Channel Count: 919
 Source Urls Processed: 10
 Total Skipped Urls: 108
 
@@ -23,7 +23,7 @@ CHANNEL DISTRIBUTION
 Uncategorized: 114 channels
 Music: 56 channels
 Cinéma: 49 channels
-Genel: 47 channels
+Genel: 48 channels
 Sports: 44 channels
 Généraliste: 33 channels
 Divertissement: 27 channels
@@ -90,34 +90,34 @@ Classic;Comedy: 2 channels
 Emissions cultes: 2 channels
 Anime & Gaming, Kids & Family: 2 channels
 True Crime: 2 channels
-Hit TV, True Crime: 2 channels
 Drama TV: 2 channels
+Hit TV, True Crime: 2 channels
 Belgesel: 2 channels
 Ulusal - Yurt Disi: 2 channels
 Educatif: 1 channels
-Réréalité: 1 channels
 Comedie: 1 channels
+Réréalité: 1 channels
 Affaires Publiques: 1 channels
-Cuisine: 1 channels
 Thématique: 1 channels
+Cuisine: 1 channels
 Quebec TV: 1 channels
 Etrangère: 1 channels
 Education;Kids: 1 channels
 Legislative: 1 channels
 Animation;Kids: 1 channels
-Auto: 1 channels
 Comedy;Movies: 1 channels
-Outdoor;Sports: 1 channels
 Classic;Movies: 1 channels
+Outdoor;Sports: 1 channels
+Auto: 1 channels
 Relax: 1 channels
-Shop: 1 channels
-Documentary;Series: 1 channels
 Comedy;Series: 1 channels
+Shop: 1 channels
 Weather: 1 channels
+Documentary;Series: 1 channels
 Hit TV: 1 channels
-Hit TV, Game Shows: 1 channels
 Drama TV, Movies: 1 channels
 International: 1 channels
+Hit TV, Game Shows: 1 channels
 Egitim: 1 channels
 Yasam Tarzi: 1 channels
 Cocuk - Yurt Disi: 1 channels
@@ -126,7 +126,7 @@ VALIDATION FAILURE BREAKDOWN
 ----------------------------
 HTTP 400 Errors: 6 channels
 HTTP 401 Errors: 4 channels
-HTTP 404 Errors: 106 channels
+HTTP 404 Errors: 105 channels
 HTTP 500 Errors: 1 channels
 HTTP 502 Errors: 1 channels
 HTTP 503 Errors: 8 channels
