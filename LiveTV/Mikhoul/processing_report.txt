@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-09-04 01:58:15
+Generated: 2026-09-04 06:46:39
 ============================================================
 
 PROCESSING STATISTICS
@@ -10,10 +10,10 @@ Total Channels Found: 1371
 Parsing Errors: 0
 Urls Validated: 1121
 Active Urls: 921
-Geo Blocked Urls: 114
-Validation Time: 169.3433756828308
+Geo Blocked Urls: 127
+Validation Time: 168.91649794578552
 Inactive By Error: {'http_404': 105, 'inactive': 48, 'invalid_content': 23, 'http_502': 1, 'http_503': 8, 'http_400': 6, 'http_504': 5, 'http_500': 1, 'http_401': 3}
-Total Processing Time: 188.14178252220154
+Total Processing Time: 177.75399374961853
 Final Channel Count: 921
 Source Urls Processed: 10
 Total Skipped Urls: 108
@@ -88,8 +88,8 @@ History & Science: 3 channels
 Découverte: 2 channels
 Classic;Comedy: 2 channels
 Emissions cultes: 2 channels
-Anime & Gaming, Kids & Family: 2 channels
 True Crime: 2 channels
+Anime & Gaming, Kids & Family: 2 channels
 Drama TV: 2 channels
 Hit TV, True Crime: 2 channels
 Belgesel: 2 channels
@@ -111,12 +111,12 @@ Outdoor;Sports: 1 channels
 Classic;Movies: 1 channels
 Relax: 1 channels
 Comedy;Series: 1 channels
-Documentary;Series: 1 channels
 Shop: 1 channels
 Weather: 1 channels
+Documentary;Series: 1 channels
 Hit TV: 1 channels
-Hit TV, Game Shows: 1 channels
 Drama TV, Movies: 1 channels
+Hit TV, Game Shows: 1 channels
 International: 1 channels
 Egitim: 1 channels
 Yasam Tarzi: 1 channels
