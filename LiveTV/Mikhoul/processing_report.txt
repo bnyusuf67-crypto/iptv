@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-09-05 18:55:43
+Generated: 2026-09-05 20:51:46
 ============================================================
 
 PROCESSING STATISTICS
@@ -10,10 +10,10 @@ Total Channels Found: 1374
 Parsing Errors: 0
 Urls Validated: 1124
 Active Urls: 919
-Geo Blocked Urls: 129
-Validation Time: 171.57556676864624
+Geo Blocked Urls: 128
+Validation Time: 163.76562595367432
 Inactive By Error: {'http_404': 109, 'inactive': 48, 'invalid_content': 23, 'http_502': 1, 'http_503': 8, 'http_400': 6, 'http_504': 5, 'http_500': 1, 'http_401': 4}
-Total Processing Time: 179.8086462020874
+Total Processing Time: 174.0426151752472
 Final Channel Count: 919
 Source Urls Processed: 10
 Total Skipped Urls: 108
@@ -88,18 +88,18 @@ History & Science: 3 channels
 Découverte: 2 channels
 Classic;Comedy: 2 channels
 Emissions cultes: 2 channels
-True Crime: 2 channels
 Anime & Gaming, Kids & Family: 2 channels
+True Crime: 2 channels
 Drama TV: 2 channels
 Hit TV, True Crime: 2 channels
 Belgesel: 2 channels
 Ulusal - Yurt Disi: 2 channels
 Educatif: 1 channels
-Réréalité: 1 channels
 Comedie: 1 channels
+Réréalité: 1 channels
 Affaires Publiques: 1 channels
-Cuisine: 1 channels
 Thématique: 1 channels
+Cuisine: 1 channels
 Quebec TV: 1 channels
 Etrangère: 1 channels
 Education;Kids: 1 channels
@@ -107,12 +107,12 @@ Legislative: 1 channels
 Animation;Kids: 1 channels
 Auto: 1 channels
 Comedy;Movies: 1 channels
+Classic;Movies: 1 channels
 Outdoor;Sports: 1 channels
 Documentary;Series: 1 channels
-Classic;Movies: 1 channels
 Relax: 1 channels
-Shop: 1 channels
 Weather: 1 channels
+Shop: 1 channels
 Comedy;Series: 1 channels
 Hit TV: 1 channels
 Hit TV, Game Shows: 1 channels
