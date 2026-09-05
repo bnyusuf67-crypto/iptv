@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-09-05 11:04:19
+Generated: 2026-09-05 14:14:29
 ============================================================
 
 PROCESSING STATISTICS
@@ -10,10 +10,10 @@ Total Channels Found: 1374
 Parsing Errors: 0
 Urls Validated: 1124
 Active Urls: 924
-Geo Blocked Urls: 128
-Validation Time: 161.00456428527832
-Inactive By Error: {'http_404': 105, 'inactive': 48, 'invalid_content': 23, 'http_502': 1, 'http_503': 8, 'http_400': 6, 'http_504': 5, 'http_500': 1, 'http_401': 3}
-Total Processing Time: 170.3652629852295
+Geo Blocked Urls: 129
+Validation Time: 165.98680520057678
+Inactive By Error: {'http_404': 105, 'inactive': 48, 'invalid_content': 22, 'http_502': 1, 'http_503': 8, 'http_400': 6, 'http_504': 5, 'http_500': 1, 'http_401': 4}
+Total Processing Time: 178.9330484867096
 Final Channel Count: 924
 Source Urls Processed: 10
 Total Skipped Urls: 108
@@ -23,8 +23,8 @@ CHANNEL DISTRIBUTION
 Uncategorized: 116 channels
 Music: 56 channels
 Cinéma: 49 channels
-Genel: 48 channels
-Sports: 44 channels
+Genel: 49 channels
+Sports: 45 channels
 Généraliste: 33 channels
 Divertissement: 27 channels
 Series: 21 channels
@@ -37,7 +37,7 @@ Sport Multiplex: 18 channels
 Musique: 15 channels
 Muzik: 15 channels
 TNT: 14 channels
-Eglence: 14 channels
+Eglence: 13 channels
 Documentaires: 12 channels
 General: 11 channels
 Animation: 11 channels
@@ -64,12 +64,12 @@ Voyages et Gastronomie: 6 channels
 Comedy: 6 channels
 Classic: 6 channels
 Daytime TV: 6 channels
-Spor: 6 channels
 Informations Françaises: 5 channels
 Documentary: 5 channels
 Movies;Series: 5 channels
 TV Réalité: 5 channels
 Documentaire: 5 channels
+Spor: 5 channels
 Cocuk: 5 channels
 Style de vie/Pratique: 4 channels
 Anime: 4 channels
@@ -95,8 +95,8 @@ Hit TV, True Crime: 2 channels
 Belgesel: 2 channels
 Ulusal - Yurt Disi: 2 channels
 Educatif: 1 channels
-Réréalité: 1 channels
 Comedie: 1 channels
+Réréalité: 1 channels
 Affaires Publiques: 1 channels
 Cuisine: 1 channels
 Thématique: 1 channels
@@ -106,13 +106,13 @@ Education;Kids: 1 channels
 Legislative: 1 channels
 Animation;Kids: 1 channels
 Auto: 1 channels
-Comedy;Movies: 1 channels
 Classic;Movies: 1 channels
-Documentary;Series: 1 channels
 Outdoor;Sports: 1 channels
+Comedy;Movies: 1 channels
+Documentary;Series: 1 channels
 Relax: 1 channels
-Shop: 1 channels
 Comedy;Series: 1 channels
+Shop: 1 channels
 Weather: 1 channels
 Hit TV: 1 channels
 Hit TV, Game Shows: 1 channels
@@ -125,14 +125,14 @@ Cocuk - Yurt Disi: 1 channels
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
 HTTP 400 Errors: 6 channels
-HTTP 401 Errors: 3 channels
+HTTP 401 Errors: 4 channels
 HTTP 404 Errors: 105 channels
 HTTP 500 Errors: 1 channels
 HTTP 502 Errors: 1 channels
 HTTP 503 Errors: 8 channels
 HTTP 504 Errors: 5 channels
 Inactive: 48 channels
-Invalid Content: 23 channels
+Invalid Content: 22 channels
 
 SKIPPED URLS (Invalid, Non-HTTP, or Duplicate)
 ---------------------------------------------
